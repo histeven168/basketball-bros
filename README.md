@@ -3,6 +3,24 @@
 
 👉 [Basketball bros](https://basketball-bros.online) | [English]([[https://github.com/histeven168/basketball-bros/blob/main/README.md](https://github.com/histeven168/basketball-bros/edit/main/README.md)](https://github.com/histeven168/basketball-bros/edit/main/README.md))
 
+[about the Basketball Bros game]
+
+🏀 Basketball Bros is a fast-paced, arcade-style browser basketball game designed for quick matches and highlight plays. It focuses on responsive controls, snappy animations, and pick‑up‑and‑play fun on both desktop and mobile devices.
+
+Development background: indie web‑game project built to showcase modern H5 performance, accessibility, and cross‑device input.
+Tech stack: HTML5, CSS (utility‑first), JavaScript; optimized for low input latency and stable 60FPS rendering.
+
+Controls: Arrow keys / WASD for movement, jump, and crouch; G for shoot/dunk; L for block/steal.
+
+Design: character archetypes (sharpshooters, slashers, defenders) encourage different playstyles and team synergy.
+Audio & feedback: curated sound effects and crowd reactions to emphasize momentum swings and clutch plays.
+
+Performance: lazy loading, resource preconnect, and lightweight UI ensure quick start and consistent play.
+
+Compatibility: works in modern browsers; keyboard recommended on desktop, touch controls on mobile.
+
+Basketball Bros aims to deliver the feel of streetball flair and arcade intensity in short, satisfying sessions—ideal for quick breaks or longer play streaks.
+
 [faq]
 
 ### How to block in Basketball Bros?
